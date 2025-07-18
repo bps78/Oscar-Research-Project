@@ -14,13 +14,13 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,2,2,Recycling
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,plastic container,1,1,Recycling
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,3,0,Trash
-1/14/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,3,0,Trash
+1/14/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,3,0,Recycling
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,plastic sauce cup,1,0,Trash
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,plastic straw,1,0,Trash
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,1,1,Recycling
 1/14/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,1,1,Recycling
 1/14/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup lid,1,1,Trash
-1/14/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Trash
+1/14/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Recycling
 1/14/2025,uwisconsin_madison_oscarsort_3,Recycling,wrapper,1,1,Trash
 1/14/2025,uwisconsin_madison_oscarsort_3,Trash,plastic cup,2,2,Recycling
 1/16/2025,uwisconsin_madison_oscarsort_1,Trash,paper wrapper,3,3,Recycling
@@ -89,7 +89,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 1/21/2025,uwisconsin_madison_oscarsort_1,Trash,plastic wrap,3,0,Trash
 1/21/2025,uwisconsin_madison_oscarsort_1,Trash,orange peel,1,0,Trash
 1/21/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-1/21/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+1/21/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 1/21/2025,uwisconsin_madison_oscarsort_1,Recycling,tetrapack,1,1,Trash
 1/21/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic straw,1,1,Trash
 1/21/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic lid,1,0,Recycling
@@ -187,7 +187,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 1/23/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,2,0,Trash
 1/23/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cutlery,8,0,Trash
 1/23/2025,uwisconsin_madison_oscarsort_1,Trash,yoghurt container,1,1,Recycling
-1/23/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+1/23/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 1/23/2025,uwisconsin_madison_oscarsort_1,Trash,paper bowl,5,0,Trash
 1/23/2025,uwisconsin_madison_oscarsort_1,Trash,paper bag,3,3,Recycling
 1/23/2025,uwisconsin_madison_oscarsort_1,Trash,plastic container,5,5,Recycling
@@ -255,7 +255,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 1/28/2025,uwisconsin_madison_oscarsort_1,Trash,wrapper,11,0,Trash
 1/28/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,7,0,Trash
 1/28/2025,uwisconsin_madison_oscarsort_1,Trash,paper bag,6,6,Recycling
-1/28/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Trash
+1/28/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Recycling
 1/28/2025,uwisconsin_madison_oscarsort_1,Trash,plastic sauce cup,2,0,Trash
 1/28/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,9,9,Recycling
 1/28/2025,uwisconsin_madison_oscarsort_1,Trash,plastic container,8,8,Recycling
@@ -309,7 +309,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 1/28/2025,uwisconsin_madison_oscarsort_3,Recycling,aluminium can,2,0,Recycling
 1/28/2025,uwisconsin_madison_oscarsort_3,Recycling,food box,2,2,Trash
 1/28/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup lid,1,1,Trash
-1/28/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Trash
+1/28/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Recycling
 1/28/2025,uwisconsin_madison_oscarsort_3,Trash,paper plastic bag,1,0,Trash
 1/28/2025,uwisconsin_madison_oscarsort_3,Trash,aluminium can,1,1,Recycling
 1/28/2025,uwisconsin_madison_oscarsort_3,Trash,wrapper,1,0,Trash
@@ -378,7 +378,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 1/30/2025,uwisconsin_madison_oscarsort_1,Trash,plastic wrap,2,0,Trash
 1/30/2025,uwisconsin_madison_oscarsort_1,Trash,plastic bag,1,0,Trash
 1/30/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-1/30/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Trash
+1/30/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Recycling
 1/30/2025,uwisconsin_madison_oscarsort_1,Trash,aluminium foil,1,1,Recycling
 1/30/2025,uwisconsin_madison_oscarsort_1,Trash,waxed food paper,1,0,Trash
 1/30/2025,uwisconsin_madison_oscarsort_2,Trash,food scraps,6,0,Trash
@@ -463,7 +463,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/4/2025,uwisconsin_madison_oscarsort_1,Trash,paper bowl,2,0,Trash
 2/4/2025,uwisconsin_madison_oscarsort_1,Trash,food box,26,0,Trash
 2/4/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,1,0,Trash
-2/4/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+2/4/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 2/4/2025,uwisconsin_madison_oscarsort_1,Trash,wrapper,8,0,Trash
 2/4/2025,uwisconsin_madison_oscarsort_1,Trash,paper bag,2,2,Recycling
 2/4/2025,uwisconsin_madison_oscarsort_1,Trash,plastic bottle,1,1,Recycling
@@ -505,7 +505,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/4/2025,uwisconsin_madison_oscarsort_2,Recycling,plastic cup,1,0,Recycling
 2/4/2025,uwisconsin_madison_oscarsort_3,Trash,tetrapack,1,0,Trash
 2/4/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-2/4/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+2/4/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 2/4/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,1,0,Trash
 2/4/2025,uwisconsin_madison_oscarsort_3,Trash,wrapper,2,0,Trash
 2/4/2025,uwisconsin_madison_oscarsort_3,Trash,food scraps,1,0,Trash
@@ -563,7 +563,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/6/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,10,10,Recycling
 2/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,5,5,Recycling
 2/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,8,0,Trash
-2/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,9,0,Trash
+2/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,9,0,Recycling
 2/6/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,11,11,Recycling
 2/6/2025,uwisconsin_madison_oscarsort_1,Trash,paper bowl,1,0,Trash
 2/6/2025,uwisconsin_madison_oscarsort_1,Trash,banana peel,1,0,Trash
@@ -602,7 +602,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/6/2025,uwisconsin_madison_oscarsort_3,Recycling,paper wrapper,1,0,Recycling
 2/6/2025,uwisconsin_madison_oscarsort_3,Recycling,food box,1,1,Trash
 2/6/2025,uwisconsin_madison_oscarsort_3,Recycling,napkin,1,1,Trash
-2/6/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Trash
+2/6/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Recycling
 2/6/2025,uwisconsin_madison_oscarsort_4,Trash,plastic bag,2,0,Trash
 2/6/2025,uwisconsin_madison_oscarsort_4,Trash,plastic cutlery,32,0,Trash
 2/6/2025,uwisconsin_madison_oscarsort_4,Trash,food scraps,3,0,Trash
@@ -650,7 +650,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/11/2025,uwisconsin_madison_oscarsort_1,Trash,paper bag,4,4,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,3,3,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,3,0,Trash
-2/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+2/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,9,9,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_1,Trash,liquids,4,0,Trash
 2/11/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,8,8,Recycling
@@ -700,7 +700,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/11/2025,uwisconsin_madison_oscarsort_2,Recycling,aluminium can,1,0,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup sleeve,1,1,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-2/11/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+2/11/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_3,Trash,wrapper,1,0,Trash
 2/11/2025,uwisconsin_madison_oscarsort_3,Trash,plastic container,1,1,Recycling
 2/11/2025,uwisconsin_madison_oscarsort_3,Trash,plastic cup,1,1,Recycling
@@ -751,7 +751,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/13/2025,uwisconsin_madison_oscarsort_1,Trash,plastic container,7,7,Recycling
 2/13/2025,uwisconsin_madison_oscarsort_1,Trash,food box,30,0,Trash
 2/13/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,3,0,Trash
-2/13/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,3,0,Trash
+2/13/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,3,0,Recycling
 2/13/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,6,0,Trash
 2/13/2025,uwisconsin_madison_oscarsort_1,Trash,plastic wrap,1,0,Trash
 2/13/2025,uwisconsin_madison_oscarsort_1,Trash,liquids,2,0,Trash
@@ -773,7 +773,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic bottle,2,0,Recycling
 2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup sleeve,1,0,Recycling
 2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup lid,2,2,Trash
-2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,2,2,Trash
+2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,2,2,Recycling
 2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,liquids,1,1,Trash
 2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic wrap,1,1,Trash
 2/13/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic straw,1,1,Trash
@@ -858,7 +858,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/18/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,6,6,Recycling
 2/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,2,2,Recycling
 2/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-2/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,4,0,Trash
+2/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,4,0,Recycling
 2/18/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,7,0,Trash
 2/18/2025,uwisconsin_madison_oscarsort_1,Trash,waxed food paper,8,0,Trash
 2/18/2025,uwisconsin_madison_oscarsort_1,Trash,paper,4,4,Recycling
@@ -953,7 +953,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/20/2025,uwisconsin_madison_oscarsort_1,Trash,plastic bag,6,0,Trash
 2/20/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,2,2,Recycling
 2/20/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,5,0,Trash
-2/20/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Trash
+2/20/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Recycling
 2/20/2025,uwisconsin_madison_oscarsort_1,Trash,wrapper,7,0,Trash
 2/20/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,10,10,Recycling
 2/20/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,3,3,Recycling
@@ -1113,7 +1113,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/27/2025,uwisconsin_madison_oscarsort_1,Trash,paper bowl,1,0,Trash
 2/27/2025,uwisconsin_madison_oscarsort_1,Trash,plastic container,12,12,Recycling
 2/27/2025,uwisconsin_madison_oscarsort_1,Trash,liquids,1,0,Trash
-2/27/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Trash
+2/27/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Recycling
 2/27/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,4,0,Trash
 2/27/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cutlery,19,0,Trash
 2/27/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,12,12,Recycling
@@ -1141,7 +1141,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/27/2025,uwisconsin_madison_oscarsort_3,Recycling,napkin,1,1,Trash
 2/27/2025,uwisconsin_madison_oscarsort_3,Recycling,plastic wrap,1,1,Trash
 2/27/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-2/27/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+2/27/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 2/27/2025,uwisconsin_madison_oscarsort_3,Trash,paper,2,2,Recycling
 2/27/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,1,0,Trash
 2/27/2025,uwisconsin_madison_oscarsort_3,Trash,plastic cutlery,1,0,Trash
@@ -1177,7 +1177,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 2/27/2025,uwisconsin_madison_oscarsort_4,Recycling,plastic bottle,1,0,Recycling
 2/27/2025,uwisconsin_madison_oscarsort_4,Recycling,plastic container,2,0,Recycling
 2/27/2025,uwisconsin_madison_oscarsort_4,Recycling,plastic cup,1,0,Recycling
-3/4/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,3,0,Trash
+3/4/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,3,0,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_1,Trash,food box,19,0,Trash
 3/4/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,22,0,Trash
 3/4/2025,uwisconsin_madison_oscarsort_1,Trash,paper lid,1,0,Trash
@@ -1203,7 +1203,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic bottle,3,0,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,aluminium can,7,0,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,napkin,4,4,Trash
-3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Trash
+3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,tetrapack,1,1,Trash
 3/4/2025,uwisconsin_madison_oscarsort_1,Recycling,food box,1,1,Trash
 3/6/2025,uwisconsin_madison_oscarsort_1,Trash,plastic bag,3,0,Trash
@@ -1231,13 +1231,13 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/6/2025,uwisconsin_madison_oscarsort_1,Trash,chopsticks,2,0,Trash
 3/6/2025,uwisconsin_madison_oscarsort_1,Trash,cardboard,1,1,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,1,0,Trash
-3/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Trash
+3/6/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic lid,3,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic cup,2,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic bottle,3,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,aluminium can,3,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup lid,2,2,Trash
-3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,2,2,Trash
+3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,2,2,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,paper,1,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,cardboard,3,0,Recycling
 3/6/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic straw,2,2,Trash
@@ -1267,7 +1267,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/11/2025,uwisconsin_madison_oscarsort_1,Trash,wrapper,3,0,Trash
 3/11/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,1,0,Trash
 3/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,1,0,Trash
-3/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Trash
+3/11/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Recycling
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,napkin,3,3,Trash
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic bottle,7,0,Recycling
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic cutlery,4,4,Trash
@@ -1279,10 +1279,10 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic container,3,0,Recycling
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic lid,3,0,Recycling
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup lid,1,1,Trash
-3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Trash
+3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Recycling
 3/11/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic straw,1,1,Trash
 3/13/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-3/13/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+3/13/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,10,10,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,5,5,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,25,0,Trash
@@ -1325,7 +1325,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/18/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,36,0,Trash
 3/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,2,2,Recycling
 3/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-3/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+3/18/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 3/18/2025,uwisconsin_madison_oscarsort_1,Trash,food box,29,0,Trash
 3/18/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cutlery,11,0,Trash
 3/18/2025,uwisconsin_madison_oscarsort_1,Trash,plastic container,5,5,Recycling
@@ -1354,7 +1354,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/20/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,6,6,Recycling
 3/20/2025,uwisconsin_madison_oscarsort_1,Trash,plastic bag,1,0,Trash
 3/20/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,3,0,Trash
-3/20/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Trash
+3/20/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,1,0,Recycling
 3/20/2025,uwisconsin_madison_oscarsort_1,Trash,banana peel,1,0,Trash
 3/20/2025,uwisconsin_madison_oscarsort_1,Trash,soft plastic lid,1,0,Trash
 3/20/2025,uwisconsin_madison_oscarsort_1,Trash,paper wrapper,1,1,Recycling
@@ -1372,7 +1372,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic cup,4,0,Recycling
 3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup sleeve,1,0,Recycling
 3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup lid,2,2,Trash
-3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,2,2,Trash
+3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,2,2,Recycling
 3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,food box,2,2,Trash
 3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic straw,1,1,Trash
 3/20/2025,uwisconsin_madison_oscarsort_1,Recycling,paper bag,1,0,Recycling
@@ -1405,7 +1405,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/4/2025,uwisconsin_madison_oscarsort_3,Trash,plastic lid,1,1,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_3,Trash,paper bowl,1,0,Trash
 3/4/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-3/4/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+3/4/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_3,Trash,food box,1,0,Trash
 3/4/2025,uwisconsin_madison_oscarsort_3,Recycling,cardboard,1,0,Recycling
 3/4/2025,uwisconsin_madison_oscarsort_3,Recycling,plastic bottle,1,0,Recycling
@@ -1432,12 +1432,12 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/11/2025,uwisconsin_madison_oscarsort_3,Trash,plastic bottle,1,1,Recycling
 3/11/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,1,0,Trash
 3/13/2025,uwisconsin_madison_oscarsort_3,Recycling,napkin,5,5,Trash
-3/13/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Trash
+3/13/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_3,Recycling,plastic bottle,1,0,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_3,Recycling,wrapper,1,1,Trash
 3/13/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup sleeve,1,1,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-3/13/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+3/13/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 3/13/2025,uwisconsin_madison_oscarsort_3,Trash,banana peel,1,0,Trash
 3/13/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,4,0,Trash
 3/13/2025,uwisconsin_madison_oscarsort_3,Trash,liquids,2,0,Trash
@@ -1484,7 +1484,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/27/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup sleeve,2,0,Recycling
 3/27/2025,uwisconsin_madison_oscarsort_3,Recycling,aluminium can,1,0,Recycling
 3/27/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,2,0,Trash
-3/27/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,2,0,Trash
+3/27/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,2,0,Recycling
 3/27/2025,uwisconsin_madison_oscarsort_3,Trash,paper,1,1,Recycling
 3/27/2025,uwisconsin_madison_oscarsort_3,Trash,food scraps,1,0,Trash
 3/27/2025,uwisconsin_madison_oscarsort_3,Trash,plastic straw,1,0,Trash
@@ -1855,7 +1855,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 3/27/2025,uwisconsin_madison_oscarsort_4,Trash,plastic bag,2,0,Trash
 3/27/2025,uwisconsin_madison_oscarsort_4,Trash,cardboard,1,1,Recycling
 4/1/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,4,0,Trash
-4/1/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,4,0,Trash
+4/1/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,4,0,Recycling
 4/1/2025,uwisconsin_madison_oscarsort_1,Trash,paper bag,3,3,Recycling
 4/1/2025,uwisconsin_madison_oscarsort_1,Trash,banana peel,1,0,Trash
 4/1/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,42,0,Trash
@@ -1886,7 +1886,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/3/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,3,3,Recycling
 4/3/2025,uwisconsin_madison_oscarsort_1,Trash,paper bag,2,2,Recycling
 4/3/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,3,0,Trash
-4/3/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,4,0,Trash
+4/3/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,4,0,Recycling
 4/3/2025,uwisconsin_madison_oscarsort_1,Trash,food box,24,0,Trash
 4/3/2025,uwisconsin_madison_oscarsort_1,Trash,aluminium can,3,3,Recycling
 4/3/2025,uwisconsin_madison_oscarsort_1,Trash,wrapper,12,0,Trash
@@ -1920,7 +1920,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/8/2025,uwisconsin_madison_oscarsort_1,Trash,chip bag,2,0,Trash
 4/8/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,64,0,Trash
 4/8/2025,uwisconsin_madison_oscarsort_1,Trash,liquids,5,0,Trash
-4/8/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Trash
+4/8/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,5,0,Recycling
 4/8/2025,uwisconsin_madison_oscarsort_1,Trash,plastic lid,13,13,Recycling
 4/8/2025,uwisconsin_madison_oscarsort_1,Trash,paper bowl,4,0,Trash
 4/8/2025,uwisconsin_madison_oscarsort_1,Trash,food box,27,0,Trash
@@ -1965,7 +1965,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/10/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic cutlery,3,3,Trash
 4/10/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup sleeve,1,0,Recycling
 4/10/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup lid,1,1,Trash
-4/10/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Trash
+4/10/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Recycling
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,food box,27,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,55,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cutlery,23,0,Trash
@@ -1985,7 +1985,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,plastic straw,5,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,liquids,2,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-4/10/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+4/10/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,waxed food paper,2,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,aluminium can,1,1,Recycling
 4/10/2025,uwisconsin_madison_oscarsort_1,Trash,paper,1,1,Recycling
@@ -2009,7 +2009,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/15/2025,uwisconsin_madison_oscarsort_1,Trash,plastic wrap,2,0,Trash
 4/15/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup sleeve,2,2,Recycling
 4/15/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup lid,2,0,Trash
-4/15/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Trash
+4/15/2025,uwisconsin_madison_oscarsort_1,Trash,coffee cup,2,0,Recycling
 4/15/2025,uwisconsin_madison_oscarsort_1,Trash,food scraps,1,0,Trash
 4/15/2025,uwisconsin_madison_oscarsort_1,Trash,plastic cup,2,2,Recycling
 4/15/2025,uwisconsin_madison_oscarsort_1,Trash,plastic sauce cup,1,0,Trash
@@ -2046,7 +2046,7 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,plastic cutlery,3,3,Trash
 4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup sleeve,1,0,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup lid,1,1,Trash
-4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Trash
+4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,coffee cup,1,1,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,cardboard,1,0,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_1,Recycling,food box,1,1,Trash
 4/22/2025,uwisconsin_madison_oscarsort_1,Trash,napkin,28,0,Trash
@@ -2171,13 +2171,13 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/10/2025,uwisconsin_madison_oscarsort_3,Trash,paper bowl,1,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_3,Trash,plastic straw,1,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-4/10/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+4/10/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 4/10/2025,uwisconsin_madison_oscarsort_3,Trash,food box,1,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_3,Trash,soft plastic lid,1,0,Trash
 4/10/2025,uwisconsin_madison_oscarsort_3,Trash,paper pop cup,1,1,Recycling
 4/15/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup sleeve,2,2,Recycling
 4/15/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,2,0,Trash
-4/15/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,2,0,Trash
+4/15/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,2,0,Recycling
 4/15/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,10,0,Trash
 4/15/2025,uwisconsin_madison_oscarsort_3,Trash,food scraps,1,0,Trash
 4/15/2025,uwisconsin_madison_oscarsort_3,Trash,plastic sauce cup,1,0,Trash
@@ -2195,11 +2195,11 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/17/2025,uwisconsin_madison_oscarsort_3,Recycling,paper,2,0,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup sleeve,1,0,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup lid,1,1,Trash
-4/17/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Trash
+4/17/2025,uwisconsin_madison_oscarsort_3,Recycling,coffee cup,1,1,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_3,Recycling,aluminium can,3,0,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_3,Trash,tea bag,1,0,Trash
 4/17/2025,uwisconsin_madison_oscarsort_3,Trash,liquids,2,0,Trash
-4/17/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,2,0,Trash
+4/17/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,2,0,Recycling
 4/17/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,5,0,Trash
 4/17/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
 4/17/2025,uwisconsin_madison_oscarsort_3,Trash,wrapper,2,0,Trash
@@ -2216,10 +2216,10 @@ Date,Device,Bin,Item,Disposals,Contaminants,Correct Bin
 4/22/2025,uwisconsin_madison_oscarsort_3,Trash,food scraps,1,0,Trash
 4/22/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup sleeve,1,1,Recycling
 4/22/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-4/22/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+4/22/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 4/24/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup sleeve,1,1,Recycling
 4/24/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup lid,1,0,Trash
-4/24/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Trash
+4/24/2025,uwisconsin_madison_oscarsort_3,Trash,coffee cup,1,0,Recycling
 4/24/2025,uwisconsin_madison_oscarsort_3,Trash,napkin,3,0,Trash
 4/24/2025,uwisconsin_madison_oscarsort_3,Trash,plastic cup,2,2,Recycling
 4/24/2025,uwisconsin_madison_oscarsort_3,Trash,plastic lid,2,2,Recycling
