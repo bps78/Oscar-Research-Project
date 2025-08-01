@@ -56,8 +56,8 @@ frozenset({'liquids'}),frozenset({'plastic cup'}),0.2857142857142857,0.952380952
 frozenset({'waxed food paper'}),frozenset({'plastic straw'}),0.10476190476190476,0.8148148148148149,1.3368055555555556
 frozenset({'waxed food paper'}),frozenset({'plastic container'}),0.10476190476190476,0.8148148148148149,1.3368055555555556
 frozenset({'coffee cup lid'}),frozenset({'plastic cutlery'}),0.3523809523809524,0.8505747126436781,1.3329902213072569
-frozenset({'plastic cup'}),frozenset({'plastic straw'}),0.5761904761904761,0.8120805369127516,1.332319630872483
 frozenset({'plastic straw'}),frozenset({'plastic cup'}),0.5761904761904761,0.9453124999999999,1.332319630872483
+frozenset({'plastic cup'}),frozenset({'plastic straw'}),0.5761904761904761,0.8120805369127516,1.332319630872483
 frozenset({'banana peel'}),frozenset({'wrapper'}),0.15714285714285714,0.9705882352941175,1.3321799307958477
 frozenset({'plastic wrap'}),frozenset({'plastic cutlery'}),0.3619047619047619,0.8444444444444444,1.3233830845771146
 frozenset({'plastic container'}),frozenset({'plastic straw'}),0.49047619047619045,0.8046874999999999,1.3201904296874998
@@ -89,8 +89,8 @@ frozenset({'plastic container'}),frozenset({'plastic cup'}),0.5428571428571428,0
 frozenset({'plastic sauce cup'}),frozenset({'plastic cup'}),0.22857142857142856,0.888888888888889,1.2527964205816555
 frozenset({'waxed food paper'}),frozenset({'plastic cup'}),0.11428571428571428,0.888888888888889,1.2527964205816555
 frozenset({'paper wrapper'}),frozenset({'plastic cup'}),0.3,0.8873239436619718,1.2505907930806313
-frozenset({'plastic straw'}),frozenset({'plastic cutlery'}),0.4857142857142857,0.7968749999999999,1.2488339552238805
 frozenset({'plastic cutlery'}),frozenset({'plastic straw'}),0.4857142857142857,0.7611940298507464,1.2488339552238805
+frozenset({'plastic straw'}),frozenset({'plastic cutlery'}),0.4857142857142857,0.7968749999999999,1.2488339552238805
 frozenset({'plastic container'}),frozenset({'plastic lid'}),0.5333333333333333,0.8749999999999999,1.2415540540540537
 frozenset({'plastic lid'}),frozenset({'plastic container'}),0.5333333333333333,0.7567567567567567,1.2415540540540537
 frozenset({'paper wrapper'}),frozenset({'plastic lid'}),0.29523809523809524,0.8732394366197183,1.2390559573658164
