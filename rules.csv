@@ -1,7 +1,7 @@
 antecedents,consequents,support,confidence,lift
 frozenset({'banana peel'}),frozenset({'liquids'}),0.12380952380952381,0.7647058823529411,2.549019607843137
-frozenset({'coffee cup lid'}),frozenset({'coffee cup'}),0.40476190476190477,0.9770114942528735,2.1826852531181213
 frozenset({'coffee cup'}),frozenset({'coffee cup lid'}),0.40476190476190477,0.9042553191489361,2.1826852531181213
+frozenset({'coffee cup lid'}),frozenset({'coffee cup'}),0.40476190476190477,0.9770114942528735,2.1826852531181213
 frozenset({'coffee cup sleeve'}),frozenset({'coffee cup lid'}),0.22380952380952382,0.824561403508772,1.990320629159105
 frozenset({'waxed food paper'}),frozenset({'plastic wrap'}),0.10952380952380952,0.851851851851852,1.9876543209876547
 frozenset({'waxed food paper'}),frozenset({'coffee cup lid'}),0.10476190476190476,0.8148148148148149,1.9667943805874841
@@ -31,12 +31,12 @@ frozenset({'liquids'}),frozenset({'plastic straw'}),0.2761904761904762,0.9206349
 frozenset({'food scraps'}),frozenset({'plastic container'}),0.4380952380952381,0.9108910891089108,1.4944306930693068
 frozenset({'food scraps'}),frozenset({'plastic cutlery'}),0.45714285714285713,0.9504950495049505,1.4895817940002956
 frozenset({'paper wrapper'}),frozenset({'plastic container'}),0.3047619047619048,0.9014084507042254,1.4788732394366195
-frozenset({'liquids'}),frozenset({'plastic container'}),0.26666666666666666,0.888888888888889,1.4583333333333333
 frozenset({'plastic sauce cup'}),frozenset({'plastic container'}),0.22857142857142856,0.888888888888889,1.4583333333333333
+frozenset({'liquids'}),frozenset({'plastic container'}),0.26666666666666666,0.888888888888889,1.4583333333333333
 frozenset({'plastic sauce cup'}),frozenset({'plastic cutlery'}),0.23809523809523808,0.9259259259259259,1.4510779436152572
 frozenset({'banana peel'}),frozenset({'plastic lid'}),0.1619047619047619,1.0,1.4189189189189189
-frozenset({'paper bag'}),frozenset({'plastic straw'}),0.2714285714285714,0.8636363636363635,1.4169034090909087
 frozenset({'paper bag'}),frozenset({'plastic container'}),0.2714285714285714,0.8636363636363635,1.4169034090909087
+frozenset({'paper bag'}),frozenset({'plastic straw'}),0.2714285714285714,0.8636363636363635,1.4169034090909087
 frozenset({'plastic bag'}),frozenset({'plastic cutlery'}),0.1761904761904762,0.9024390243902439,1.4142701128503823
 frozenset({'paper bowl'}),frozenset({'plastic cutlery'}),0.2619047619047619,0.9016393442622951,1.4130168827991192
 frozenset({'paper bag'}),frozenset({'plastic cutlery'}),0.28095238095238095,0.8939393939393939,1.4009497964721846
@@ -53,11 +53,11 @@ frozenset({'plastic sauce cup'}),frozenset({'plastic straw'}),0.2142857142857142
 frozenset({'paper wrapper'}),frozenset({'plastic straw'}),0.28095238095238095,0.8309859154929577,1.3633362676056338
 frozenset({'plastic bag'}),frozenset({'plastic straw'}),0.1619047619047619,0.8292682926829269,1.360518292682927
 frozenset({'liquids'}),frozenset({'plastic cup'}),0.2857142857142857,0.9523809523809523,1.3422818791946307
-frozenset({'waxed food paper'}),frozenset({'plastic straw'}),0.10476190476190476,0.8148148148148149,1.3368055555555556
 frozenset({'waxed food paper'}),frozenset({'plastic container'}),0.10476190476190476,0.8148148148148149,1.3368055555555556
+frozenset({'waxed food paper'}),frozenset({'plastic straw'}),0.10476190476190476,0.8148148148148149,1.3368055555555556
 frozenset({'coffee cup lid'}),frozenset({'plastic cutlery'}),0.3523809523809524,0.8505747126436781,1.3329902213072569
-frozenset({'plastic straw'}),frozenset({'plastic cup'}),0.5761904761904761,0.9453124999999999,1.332319630872483
 frozenset({'plastic cup'}),frozenset({'plastic straw'}),0.5761904761904761,0.8120805369127516,1.332319630872483
+frozenset({'plastic straw'}),frozenset({'plastic cup'}),0.5761904761904761,0.9453124999999999,1.332319630872483
 frozenset({'banana peel'}),frozenset({'wrapper'}),0.15714285714285714,0.9705882352941175,1.3321799307958477
 frozenset({'plastic wrap'}),frozenset({'plastic cutlery'}),0.3619047619047619,0.8444444444444444,1.3233830845771146
 frozenset({'plastic container'}),frozenset({'plastic straw'}),0.49047619047619045,0.8046874999999999,1.3201904296874998
@@ -89,13 +89,13 @@ frozenset({'plastic container'}),frozenset({'plastic cup'}),0.5428571428571428,0
 frozenset({'plastic sauce cup'}),frozenset({'plastic cup'}),0.22857142857142856,0.888888888888889,1.2527964205816555
 frozenset({'waxed food paper'}),frozenset({'plastic cup'}),0.11428571428571428,0.888888888888889,1.2527964205816555
 frozenset({'paper wrapper'}),frozenset({'plastic cup'}),0.3,0.8873239436619718,1.2505907930806313
-frozenset({'plastic straw'}),frozenset({'plastic cutlery'}),0.4857142857142857,0.7968749999999999,1.2488339552238805
 frozenset({'plastic cutlery'}),frozenset({'plastic straw'}),0.4857142857142857,0.7611940298507464,1.2488339552238805
+frozenset({'plastic straw'}),frozenset({'plastic cutlery'}),0.4857142857142857,0.7968749999999999,1.2488339552238805
 frozenset({'plastic container'}),frozenset({'plastic lid'}),0.5333333333333333,0.8749999999999999,1.2415540540540537
 frozenset({'plastic lid'}),frozenset({'plastic container'}),0.5333333333333333,0.7567567567567567,1.2415540540540537
 frozenset({'paper wrapper'}),frozenset({'plastic lid'}),0.29523809523809524,0.8732394366197183,1.2390559573658164
-frozenset({'coffee cup sleeve'}),frozenset({'plastic container'}),0.20476190476190476,0.7543859649122807,1.2376644736842104
 frozenset({'coffee cup sleeve'}),frozenset({'plastic straw'}),0.20476190476190476,0.7543859649122807,1.2376644736842104
+frozenset({'coffee cup sleeve'}),frozenset({'plastic container'}),0.20476190476190476,0.7543859649122807,1.2376644736842104
 frozenset({'food scraps'}),frozenset({'wrapper'}),0.43333333333333335,0.900990099009901,1.2366530770724131
 frozenset({'coffee cup sleeve'}),frozenset({'plastic cup'}),0.23809523809523808,0.8771929824561404,1.2363122571529495
 frozenset({'plastic sauce cup'}),frozenset({'plastic lid'}),0.22380952380952382,0.8703703703703705,1.234984984984985
@@ -105,8 +105,8 @@ frozenset({'paper wrapper'}),frozenset({'wrapper'}),0.3,0.8873239436619718,1.217
 frozenset({'plastic lid'}),frozenset({'plastic cutlery'}),0.5476190476190477,0.7770270270270271,1.2177289229528037
 frozenset({'plastic cutlery'}),frozenset({'plastic lid'}),0.5476190476190477,0.8582089552238807,1.2177289229528037
 frozenset({'food box'}),frozenset({'plastic cutlery'}),0.3619047619047619,0.7755102040816326,1.2153518123667377
-frozenset({'plastic cutlery'}),frozenset({'plastic cup'}),0.5476190476190477,0.8582089552238807,1.20955624561755
 frozenset({'plastic cup'}),frozenset({'plastic cutlery'}),0.5476190476190477,0.7718120805369127,1.20955624561755
+frozenset({'plastic cutlery'}),frozenset({'plastic cup'}),0.5476190476190477,0.8582089552238807,1.20955624561755
 frozenset({'plastic bottle'}),frozenset({'plastic cutlery'}),0.4,0.7706422018348623,1.2077228536217992
 frozenset({'coffee cup lid'}),frozenset({'plastic lid'}),0.3523809523809524,0.8505747126436781,1.206896551724138
 frozenset({'paper bag'}),frozenset({'wrapper'}),0.2761904761904762,0.8787878787878789,1.2061794414735594
@@ -125,10 +125,10 @@ frozenset({'coffee cup lid'}),frozenset({'wrapper'}),0.3523809523809524,0.850574
 frozenset({'plastic wrap'}),frozenset({'wrapper'}),0.3619047619047619,0.8444444444444444,1.159041394335512
 frozenset({'coffee cup'}),frozenset({'plastic cup'}),0.36666666666666664,0.8191489361702127,1.1545052120519776
 frozenset({'plastic bottle'}),frozenset({'plastic cup'}),0.4238095238095238,0.8165137614678898,1.1507912074379654
-frozenset({'waxed food paper'}),frozenset({'napkin'}),0.12857142857142856,1.0,1.1475409836065573
 frozenset({'paper bag'}),frozenset({'napkin'}),0.3142857142857143,1.0,1.1475409836065573
 frozenset({'banana peel'}),frozenset({'napkin'}),0.1619047619047619,1.0,1.1475409836065573
 frozenset({'plastic bag'}),frozenset({'napkin'}),0.19523809523809524,1.0,1.1475409836065573
+frozenset({'waxed food paper'}),frozenset({'napkin'}),0.12857142857142856,1.0,1.1475409836065573
 frozenset({'plastic container'}),frozenset({'wrapper'}),0.5095238095238095,0.8359374999999999,1.1473651960784312
 frozenset({'plastic cutlery'}),frozenset({'wrapper'}),0.5333333333333333,0.8358208955223881,1.1472051507170034
 frozenset({'food box'}),frozenset({'plastic cup'}),0.3761904761904762,0.8061224489795918,1.1361457334611698
